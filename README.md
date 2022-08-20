@@ -2,7 +2,7 @@
 
 Los RPGs (Role Playing Games, por sus siglas en inglés) son un tipo de videojuego en los cuales el jugador toma el rol de un personaje en un mundo de fantasía. Hay varios tipos de RPGs, pero el que se va a utilizar en este código va a ser un RPG con combate basado en turnos. Algunos ejemplos de juegos así son Final Fantasy, Earthbound, Undertale, entre otros. 
 
-#Pseudocódigo
+# Pseudocódigo
 importar random
 
 (Información del jugador)
