@@ -120,8 +120,8 @@ def ataque(atk, hp):
     return nhp
 
 def curar(hp, poder_curacion):
-        nhp = hp + randrange(5,20) * poder_curacion
-        return nhp
+    nhp = hp + randrange(5,20) * poder_curacion
+    return nhp
          
 """
 ==========Stats clases==========
